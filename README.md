@@ -1,4 +1,4 @@
-## Connor Ingram Porfolio
+## Connor Ingram Portfolio
 
 # Portfolio
 
@@ -8,13 +8,13 @@ Hi, I'm Connor Ingram and this is my Cyber Security Portfolio. I am currently se
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+|                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
 
 # Certifications 
-List our your certifications and/or link to them. Also include the ones you plan on doing!
+List your your certifications and/or link to them. Also include the ones you plan on doing!
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
